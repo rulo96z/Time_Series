@@ -4,7 +4,11 @@ With over 200 million users, MercadoLibre is the most popular e-commerce site in
 ---
 ## Technologies
 In this project we are using **Python 3.8/ Jupyter lab**.   
-
+- Pandas 
+- Hvplot
+- Fbprophet
+- Datetime
+- Pathlib
 ---
 
 ## Installation Guide
@@ -13,6 +17,7 @@ In this project we are using **Python 3.8/ Jupyter lab**.
 - [Pathlib](https://docs.python.org/3/library/pathlib.html)
 - [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 - [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+
 ---
 
 ## Contributors
